@@ -58,22 +58,22 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 Ad-hoc referee: Management Science, Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Flexible Services and Manufacturing, Journal of the Operations Research Society of China, Journal of System & Management
 
 ## Judge for Paper Competitions
-    - Best Student Paper Competition, POMS China International Conference (2024, 2025) 
-    - Best Student Paper Competition, POMS HK International Conference (2023, 2024, 2026) 
-    - Best Student Paper Competition, ISCOM Annual Meeting (2022)
+- Best Student Paper Competition, POMS China International Conference (2024, 2025) 
+- Best Student Paper Competition, POMS HK International Conference (2023, 2024, 2026) 
+- Best Student Paper Competition, ISCOM Annual Meeting (2022)
 
 ## Conference Organization  
-   - Organizing Committee, POMS-China Annual Meeting 2023, Hangzhou, China 
-	- Organizing Committee, The 13th CSAMSE Conference 2021, Shanghai, China 
-   - Session Chair, INFORMS International Annual Meeting 2025, Singapore
-   - Session Chair, POMS HK International Conference 2025, Hong Kong, China
-  - Session Chair, POMS HK International Conference 2024, Hong Kong, China
-  - Session Chair, POMS-China Annual Meeting 2024, Hefei, China
-    - Session Chair, POMS-China Annual Meeting 2023, Hangzhou, China
- 	- Session Chair, POMS Annual Meeting 2023, Orlando, FL
- 	- Session Chair, POMS Annual Meeting 2019, Washington D.C.
- 	- Session Chair, POMS Annual Meeting 2018, Houston, TX
- 	- Session Chair, INFORMS Annual Meeting 2018, Phoenix, AZ
+- Organizing Committee, POMS-China Annual Meeting 2023, Hangzhou, China 
+- Organizing Committee, The 13th CSAMSE Conference 2021, Shanghai, China 
+- Session Chair, INFORMS International Annual Meeting 2025, Singapore
+- Session Chair, POMS HK International Conference 2025, Hong Kong, China
+- Session Chair, POMS HK International Conference 2024, Hong Kong, China
+- Session Chair, POMS-China Annual Meeting 2024, Hefei, China
+- Session Chair, POMS-China Annual Meeting 2023, Hangzhou, China
+- Session Chair, POMS Annual Meeting 2023, Orlando, FL
+- Session Chair, POMS Annual Meeting 2019, Washington D.C.
+- Session Chair, POMS Annual Meeting 2018, Houston, TX
+- Session Chair, INFORMS Annual Meeting 2018, Phoenix, AZ
 
 
 
