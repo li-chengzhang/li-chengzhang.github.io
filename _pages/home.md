@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /home/
 author_profile: false
 header:
   overlay_color: "#000"
