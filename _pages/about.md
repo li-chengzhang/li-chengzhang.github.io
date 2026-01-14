@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-I am an Associate Professor in the Department of Management Science at Antai College of Economics and Management, Shanghai Jiao Tong University (SJTU). Prior joining SJTU, I received my Ph.D. in Operations Management and M.S. in Statistics and Computer Science from Purdue University, and my B.S. in Mechanical Engineering and Automation from SJTU. 
+I am an Associate Professor in the Department of Management Science at Antai College of Economics and Management, Shanghai Jiao Tong University (SJTU). Prior to joining SJTU, I received my Ph.D. in Operations Management and M.S. in Statistics and Computer Science from Purdue University, and my B.S. in Mechanical Engineering and Automation from SJTU. 
 
 **Research interests**
 - Data-driven decision making
@@ -56,6 +56,12 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 # Service
 ## Editorial Services
 Ad-hoc referee: Management Science, Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Flexible Services and Manufacturing, Journal of the Operations Research Society of China, Journal of System & Management
+
+## Judge for Paper Competitions
+    - Best Student Paper Competition, POMS China International Conference (2024, 2025) 
+    - Best Student Paper Competition, POMS HK International Conference (2023, 2024, 2026) 
+    - Best Student Paper Competition, ISCOM Annual Meeting (2022)
+
 
 # Honors
 - First Prize, MSOM Practice-based Research Competition, 2025
