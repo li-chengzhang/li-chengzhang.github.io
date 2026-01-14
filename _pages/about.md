@@ -32,7 +32,10 @@ My research lies at the intersection of operations management, data-driven decis
    Qi Feng, Chengzhang Li, Mengshi Lu, J. George Shanthikumar. 2022.  **Management Science**. 68(4): 2579-2599.
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309518)
 
+### Selected working papers
 
-
+1. "Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making."
+    Chengzhang Li, Zhenkang Peng, Ying Rong. **Management Science**. Under minor revision. 
+   [[arXiv]](https://arxiv.org/abs/2311.17326))
 
 ### Teaching
