@@ -16,12 +16,9 @@ My research lies at the intersection of operations management, data-driven decis
 
 ### Research
 
-## Journal Papers
-
-1. **“Capacity and pricing management with demand learning,”**
-   with Jian Chen, Zechao Li, and Yining Wang, 2025.
-   Forthcoming in **Management Science**.  
-   [[SSRN]](https://ssrn.com/xxxx)
+1. “Product Return Policies: The Impacts of Vertical Bargaining and Contracting with Retail Competition,”
+   Chengzhang Li, Tingliang Huang, Yufei Huang. 2025.  **Manufacturing & Service Operations Management**. 27(4):1126-1145.
+   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5182639)
 
 2. **“Combating excessive overtime in global supply chains: The workforce perspective,”**
    with Jiayu Chen and Chuanya Jiao, 2025.
