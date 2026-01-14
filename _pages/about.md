@@ -80,6 +80,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 # Honors
 - First Prize, MSOM Practice-based Research Competition, 2025
 - CSAMSE Early Career Fellow, 2025
+- Thrid Prize, Teaching Competition, Antai College of Economics and Management, 2025
 - Most Popular Instructor for Undergraduates, Shanghai Jiao Tong University, 2024
 - Most Popular Course Group for Undergraduates, Shanghai Jiao Tong University, 2024
 - Shanghai Pujiang Talent, Shanghai Municipal Government, 2021
