@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /
 author_profile: true
 ---
@@ -52,5 +52,12 @@ My research lies at the intersection of operations management, data-driven decis
 5. "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility." Yuxiao Chen, Tingliang Huang, Chengzhang Li, Qinghua Zhu. To be submitted.
 
 
-
 ### Teaching
+
+** Shanghai Jiao Tong University**
+- Machine Learning. Spring 2020-2025.
+- Forecasting Method and Analysis. Spring 2021-2025.
+
+** Purdue University**
+- Operations Management. (Summer 2019, Fall 2017, Summer 2016)
+
