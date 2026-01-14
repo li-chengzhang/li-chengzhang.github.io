@@ -12,7 +12,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 - Supply chain management
 - Sustainable operations
 
-### Publications
+## Publications
 
 1. “Product Return Policies: The Impacts of Vertical Bargaining and Contracting with Retail Competition,”
    Chengzhang Li, Tingliang Huang, Yufei Huang. 2025.  **Manufacturing & Service Operations Management**. 27(4):1126-1145.
