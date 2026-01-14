@@ -15,4 +15,36 @@ My research lies at the intersection of operations management, data-driven decis
 - Sustainable operations and circular economy (e.g., EPR, recycling systems)
 
 ### Research
+
+## Journal Papers
+
+1. **“Capacity and pricing management with demand learning,”**
+   with Jian Chen, Zechao Li, and Yining Wang, 2025.
+   Forthcoming in **Management Science**.  
+   [[SSRN]](https://ssrn.com/xxxx)
+
+2. **“Combating excessive overtime in global supply chains: The workforce perspective,”**
+   with Jiayu Chen and Chuanya Jiao, 2025.
+   Forthcoming in **Management Science**.  
+   [[SSRN]](https://ssrn.com/xxxx)
+
+   - Finalist in 2022 INFORMS PSOR Best Paper Award
+   - Third place in 2022 ISCOM Best Paper Award
+
+3. **“Human decision-making in dynamic resource allocation,”**
+   with Damian Beil, Izak Duenyas, Steve Leider, and Jiawei Li, 2025.
+   Forthcoming in **Management Science**.  
+   [[SSRN]](https://ssrn.com/xxxx)
+
+4. **“Behavioral externalities of process automation,”**
+   with Ruth Beer and Ignacio Rios, 2025.
+   Forthcoming in **Management Science**.  
+   [[SSRN]](https://ssrn.com/xxxx)
+
+5. **“Coordination for assembly,”**
+   with Elena Katok, Sina Shokoohyar, and Wen Zhang, 2025.
+   **Manufacturing & Service Operations Management**, 27(6): 1905–1922.  
+   [[SSRN]](https://ssrn.com/xxxx)
+
+
 ### Teaching
