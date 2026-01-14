@@ -55,4 +55,18 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 
 # Service
 
+# Honors
+- First Prize, MSOM Practice-based Research Competition, 2025
+- CSAMSE Early Career Fellow, 2025
+- Most Popular Instructor for Undergraduates, Shanghai Jiao Tong University, 2024
+- Most Popular Course Group for Undergraduates, Shanghai Jiao Tong University, 2024
+- Shanghai Pujiang Talent, Shanghai Municipal Government, 2021
+- Honorable Mention, POMS College of Sustainable Operations Best Student Paper Competition, 2019
+- Doctoral Student Travel Award, POMS College of Sustainable Operations, 2019
+- Krannert Certificate for Distinguished Teaching, Purdue University, 2016, 2017, 2019 
+- Operations Management Scholar Award, Purdue University, 2013 - 2017 
+- Tamasek Foundation LEaRN Scholarship, National University of Singapore, 2012
+- National Scholarship, Shanghai Jiao Tong University, 2011
+- Bosch Scholarship, Shanghai Jiao Tong University, 2011
+
 
