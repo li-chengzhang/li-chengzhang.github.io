@@ -29,11 +29,11 @@ author:
   bio              : "Associate Professor of of Management Sciecen"
   # location         : "Earth"
   employer         : "Shanghai Jiao Tong University"
-  uri              : # URL
+  uri              : "https://www.acem.sjtu.edu.cn/en/faculty/lichengzhang.html#container?91"
   email            : "cz.li@sjtu.edu.cn" 
 
   # Academic websites
-  academia         : "https://www.acem.sjtu.edu.cn/en/faculty/lichengzhang.html#container?91"
+  academia         : # "https://www.acem.sjtu.edu.cn/en/faculty/lichengzhang.html#container?91"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=pGcgNxwAAAAJ&hl=en"
   inspire-hep      : # URL
