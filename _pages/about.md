@@ -46,14 +46,16 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 # Teaching
 
 **Shanghai Jiao Tong University**
-- Machine Learning. (Spring 2020-2025)
-- Forecasting Method and Analysis. (Spring 2021-2025)
+- Machine Learning (Spring 2020-2025)
+- Forecasting Method and Analysis (Spring 2021-2025)
 
 **Purdue University**
-- Operations Management. (Summer 2016, Fall 2017, Summer 2019)
+- Operations Management (Summer 2016, Fall 2017, Summer 2019)
 
 
 # Service
+## Editorial Services
+Ad-hoc referee: Management Science, Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Flexible Services and Manufacturing, Journal of the Operations Research Society of China, Journal of System & Management
 
 # Honors
 - First Prize, MSOM Practice-based Research Competition, 2025
