@@ -50,7 +50,9 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 - Forecasting Method and Analysis. (Spring 2021-2025)
 
 **Purdue University**
-- Operations Management. (2019 Summer, 2017 Fall, 2016 Summer)
+- Operations Management. (Summer 2016, Fall 2017, Summer 2019)
 
 
 # Service
+
+
