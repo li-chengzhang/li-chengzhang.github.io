@@ -38,4 +38,19 @@ My research lies at the intersection of operations management, data-driven decis
     Chengzhang Li, Zhenkang Peng, Ying Rong. **Management Science**. Under minor revision. 
    [[arXiv]](https://arxiv.org/abs/2311.17326))
 
+2. "Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing."
+    Zhenkang Peng, Chengzhang Li, Ying Rong, Zichao Luo, Guangrui Ma, Mingyong Zhao. **Manufacturing & Service Operations Management**. Under major revision. 
+   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5693742)
+
+3. "Synthesizing Evidence: Data-Pooling as a Tool for Treatment Selection in Online Experiments."
+    Zhenkang Peng, Chengzhang Li, Ying Rong, Renyu Zhang. **Management Science**. Under major revision. 
+   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5393951)
+
+4. "Bankrolling Voluntary Carbon Offsets." Jing Hou, Puping Jiang, Chengzhang Li. **Management Science**. Under major revision. 
+   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448534)
+
+5. "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility." Yuxiao Chen, Tingliang Huang, Chengzhang Li, Qinghua Zhu. To be submitted.
+
+
+
 ### Teaching
