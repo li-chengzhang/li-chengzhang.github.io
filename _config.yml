@@ -23,7 +23,7 @@ repository               : "li-chengzhang/li-chengzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "squared.jpg"
+  avatar           : "Squared.jpg"
   name             : "Chengzhang Li"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Management Science"
