@@ -1,4 +1,17 @@
 .page__content h2 {
   font-size: 2.1rem;   /* default ~1.75rem */
-  margin-top: 2.2em;
+}
+
+/* Fix spacing between sections and subsections */
+
+/* Section titles (## Teaching, ## Service) */
+.page__content h2 {
+  margin-top: 2.5em;     /* increase distance from previous section */
+  margin-bottom: 0.8em;  /* reduce gap before subsection */
+}
+
+/* Subsection titles (### Editorial Services) */
+.page__content h3 {
+  margin-top: 0.8em;     /* tighten gap after section title */
+  margin-bottom: 0.6em;
 }
