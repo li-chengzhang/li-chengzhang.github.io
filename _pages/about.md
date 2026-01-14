@@ -13,8 +13,3 @@ My research lies at the intersection of operations management, data-driven decis
 - Data-driven optimization and learning under limited data
 - Supply chain coordination and contract design
 - Sustainable operations and circular economy (e.g., EPR, recycling systems)
-- Time series forecasting and operational analytics
-
-**Contact**
-- Email: cz.li@sjtu.edu.cn  
-- Google Scholar: https://scholar.google.com/citations?user=PS_CX0AAAAAJ
