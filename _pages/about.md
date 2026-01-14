@@ -12,7 +12,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 - Supply chain management
 - Sustainable operations
 
-## Publications
+# Publications
 
 1. “Product Return Policies: The Impacts of Vertical Bargaining and Contracting with Retail Competition,”
    Chengzhang Li, Tingliang Huang, Yufei Huang. 2025.  **Manufacturing & Service Operations Management**. 27(4):1126-1145.
@@ -30,7 +30,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
    Qi Feng, Chengzhang Li, Mengshi Lu, J. George Shanthikumar. 2022.  **Management Science**. 68(4): 2579-2599.
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309518)
 
-### Selected working papers
+# Selected working papers
 
 1. "Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making."
     Chengzhang Li, Zhenkang Peng, Ying Rong. **Management Science**. Under minor revision. 
@@ -50,7 +50,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 5. "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility." Yuxiao Chen, Tingliang Huang, Chengzhang Li, Qinghua Zhu. To be submitted.
 
 
-### Teaching
+# Teaching
 
 **Shanghai Jiao Tong University**
 - Machine Learning. Spring 2020-2025.
@@ -60,4 +60,4 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 - Operations Management. (Summer 2019, Fall 2017, Summer 2016)
 
 
-### Service
+# Service
