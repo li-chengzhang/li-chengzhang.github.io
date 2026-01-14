@@ -55,7 +55,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 
 # Service
 ## Editorial Services
-Ad-hoc referee: Management Science, Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Flexible Services and Manufacturing, Journal of the Operations Research Society of China, Journal of System & Management
+- Ad-hoc referee: Management Science, Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Flexible Services and Manufacturing, Journal of the Operations Research Society of China, Journal of System & Management
 
 ## Judge for Paper Competitions
 - Best Student Paper Competition, POMS China International Conference (2024, 2025) 
