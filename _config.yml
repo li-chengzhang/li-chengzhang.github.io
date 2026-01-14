@@ -23,10 +23,10 @@ repository               : "li-chengzhang/li-chengzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "squared.png"
+  avatar           : "squared.jpg"
   name             : "Chengzhang Li"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor of of Management Sciecen"
+  bio              : "Associate Professor of Management Science"
   # location         : "Earth"
   employer         : "Shanghai Jiao Tong University"
   uri              : "https://www.acem.sjtu.edu.cn/en/faculty/lichengzhang.html#container?91"
