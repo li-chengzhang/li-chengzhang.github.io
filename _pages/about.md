@@ -92,10 +92,13 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 
 <h2>Visitor Map</h2>
 
-<div id="clustrmaps-container" style="min-height:180px; text-align:center;">
-  <script
-    type="text/javascript"
-    id="clustrmaps"
-    src="https://clustrmaps.com/map_v2.js?d=oH01F500H2_U_v50g1Qof_VrWfWTqTibG6GRme8Q2-w&cl=ffffff&w=a">
-  </script>
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://clustrmaps.com/site/1c908" title="ClustrMaps">
+    <img
+      src="https://www.clustrmaps.com/map_v2.png?d=oH01F500H2_U_v50g1Qof_VrWfWTqTibG6GRme8Q2-w&cl=ffffff"
+      alt="Visitor Map"
+      style="max-width:100%; height:auto;"
+      loading="lazy"
+    />
+  </a>
 </div>
