@@ -63,9 +63,9 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 - Best Student Paper Competition, ISCOM Annual Meeting (2022)
 
 ## Conference Organization  
-- Organizing Committee, POMS-China Annual Meeting 2023, Hangzhou, China 
-- Organizing Committee, The 13th CSAMSE Conference 2021, Shanghai, China 
-- Session Chair, INFORMS International Annual Meeting 2025
+- Organizing Committee, POMS-China Annual Meeting (2023) 
+- Organizing Committee, The 13th CSAMSE Conference (2021) 
+- Session Chair, INFORMS International Annual Meeting (2025)
 - Session Chair, POMS HK International Conference (2024-2026)
 - Session Chair, POMS-China Annual Meeting (2023 - 2024)
 - Session Chair, POMS Annual Meeting (2018, 2019, 2023)
