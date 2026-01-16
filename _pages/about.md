@@ -26,7 +26,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 4. Qi Feng, Chengzhang Li, Mengshi Lu, J. George Shanthikumar. 2022. “Implementing Environmental and Social Responsibility Programs in Supply Networks through Multi-Unit Bilateral Negotiation.” **Management Science**. 68(4): 2579-2599.
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309518)
 
-# Selected working papers
+# Working papers
 
 1. Chengzhang Li, Zhenkang Peng, Ying Rong. "Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making." **Management Science**. Under minor revision. 
    [[arXiv]](https://arxiv.org/abs/2311.17326))
@@ -90,7 +90,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 
 
 
-<h2>Visitor Map</h2>
+<h2>Cite visits</h2>
 
 <div style="text-align:center; margin-top:20px;">
   <a href="https://clustrmaps.com/site/1c908" title="ClustrMaps">
