@@ -76,7 +76,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 # Honors
 - First Prize, MSOM Practice-based Research Competition, 2025
 - CSAMSE Early Career Fellow, 2025
-- Thrid Prize, Teaching Competition, Antai College of Economics and Management, 2025
+- Third Prize, Teaching Competition, Antai College of Economics and Management, 2025
 - Most Popular Instructor for Undergraduates, Shanghai Jiao Tong University, 2024
 - Most Popular Course Group for Undergraduates, Shanghai Jiao Tong University, 2024
 - Shanghai Pujiang Talent, Shanghai Municipal Government, 2021
@@ -92,13 +92,4 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 
 <h2>Cite visits</h2>
 
-<div style="text-align:center; margin-top:20px;">
-  <a href="https://clustrmaps.com/site/1c908" title="ClustrMaps">
-    <img
-      src="https://www.clustrmaps.com/map_v2.png?d=oH01F500H2_U_v50g1Qof_VrWfWTqTibG6GRme8Q2-w&cl=ffffff"
-      alt="Visitor Map"
-      style="max-width:100%; height:auto;"
-      loading="lazy"
-    />
-  </a>
-</div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oH01F50OH2_U_v50g1Qof_VrWfwTqTibG6GRme8Q2-w&cl=ffffff&w=a"></script>
