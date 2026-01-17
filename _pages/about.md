@@ -90,4 +90,4 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=oH01F50OH2_U_v50g1Qof_VrWfwTqTibG6GRme8Q2-w&cmn=62da62&ct=f8f8f8'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=oH01F50OH2_U_v50g1Qof_VrWfwTqTibG6GRme8Q2-w&cmn=62da62&ct=f8f8f8'></script>
