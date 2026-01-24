@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "| Shanghai Jiao Tong University"
 permalink: /
 author_profile: true
 ---
