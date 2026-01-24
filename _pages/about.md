@@ -1,5 +1,5 @@
 ---
-title: "| Shanghai Jiao Tong University"
+title: ""
 permalink: /
 author_profile: true
 ---
