@@ -10,7 +10,8 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Chengzhang Li"
-title_separator          : "-"
+title_separator          : "|"
+subtitle                 : "Shanghai Jiao Tong University"
 name                     : "Chengzhang Li"
 description              : "Operations Management · Data-driven Supply Chain · Sustainable Operations"
 
