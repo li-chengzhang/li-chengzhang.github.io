@@ -32,7 +32,7 @@ I am an Associate Professor in the Department of Management Science at Antai Col
 # Working papers
 
 1. Chengzhang Li, Zhenkang Peng, Ying Rong. "Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making." **Management Science**. Under minor revision. 
-   [[arXiv]](https://arxiv.org/abs/2311.17326))
+   [[arXiv]](https://arxiv.org/abs/2311.17326)
 
 2. Zhenkang Peng, Chengzhang Li, Ying Rong, Renyu Zhang. "Synthesizing Evidence: Data-Pooling as a Tool for Treatment Selection in Online Experiments." **Management Science**. Under major revision. 
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5393951)
