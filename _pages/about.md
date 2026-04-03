@@ -7,6 +7,9 @@ author_profile: true
 
 I am an Associate Professor in the Department of Management Science at Antai College of Economics and Management, Shanghai Jiao Tong University (SJTU). Prior to joining SJTU, I received my Ph.D. in Operations Management and M.S. in Statistics and Computer Science from Purdue University, and my B.S. in Mechanical Engineering and Automation from SJTU. 
 
+My research focuses on supply chain management. Using tools from game theory, optimization, and statistical learning, my research addresses coordination and decision-making challenges in supply networks across three directions. The first examines supply chain governance and environmental and social responsibility (ESR) compliance, focusing on developing coordination mechanisms, auditing strategies, and policy interventions in managing ESR risks in supply networks. The second investigates operational decision-making under uncertainty and dynamic environments, designing robust and tractable algorithms for pricing, inventory, and allocation. The third develops data-driven methods, especially for small-data large-scale systems, with emphasis on data aggregation approaches and integrated prediction-optimization frameworks. 
+
+
 **Research interests**
 - Data-driven decision making
 - Supply chain management
