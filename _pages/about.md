@@ -7,8 +7,7 @@ author_profile: true
 
 I am an Associate Professor in the Department of Management Science at Antai College of Economics and Management, Shanghai Jiao Tong University (SJTU). Prior to joining SJTU, I received my Ph.D. in Operations Management and M.S. in Statistics and Computer Science from Purdue University, and my B.S. in Mechanical Engineering and Automation from SJTU. 
 
-My research mainly concerns incentive design and decision-making in supply chain management. My current research focuses on the following area:
-
+My research focuses on supply chain management. Using tools from optimization, statistical learning, and game theory, my research addresses coordination and decision-making challenges in supply networks across three directions.
 - Data-driven decision making
 - Supply chain management
 - Sustainable operations
