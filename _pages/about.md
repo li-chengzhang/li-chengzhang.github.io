@@ -42,7 +42,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 
 4. Chengzhang Li, Yuanchen Li. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits" **Production and Operations Management**. Under major revision. 
 
-5. Yuxiao Chen, Tingliang Huang, Chengzhang Li, Qinghua Zhu. "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility." To be submitted. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6549378)
+5. Yuxiao Chen, Tingliang Huang, Chengzhang Li, Qinghua Zhu. "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility." Under reivew. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6549378)
 
 
 # Teaching
