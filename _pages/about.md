@@ -40,8 +40,8 @@ My research focuses on supply chain management. Using tools from optimization, s
 3. Jing Hou, Puping Jiang, Chengzhang Li, Fasheng Xu. "Bankrolling Voluntary Carbon Offsets." **Management Science**. Under major revision. 
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5448534)
 
-4. Chengzhang Li, Yuanchen Li. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits" **Production and Operations Management**. Under major revision. 
-
+4. Chengzhang Li, Yuanchen Li. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits" **Production and Operations Management**. Under major revision. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6821699)
+   
 5. Yuxiao Chen, Tingliang Huang, Chengzhang Li, Qinghua Zhu. "When Recycling Meets Variety: Product Design and Policy Intervention under Extended Producer Responsibility." Under review. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6549378)
 
 
