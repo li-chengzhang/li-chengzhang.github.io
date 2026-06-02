@@ -31,7 +31,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 
 # Working papers
 
-1. Chengzhang Li, Yuanchen Li. 2026. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits" **Production and Operations Management**. Conditional Accept. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6821699)
+1. Chengzhang Li, Yuanchen Li. 2026. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits" **Production and Operations Management**. Conditionally accepted. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6821699)
 
 2. Chengzhang Li, Zhenkang Peng, Ying Rong. "Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making." **Management Science**. Under minor revision. 
    [[arXiv]](https://arxiv.org/abs/2311.17326)
