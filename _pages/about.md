@@ -14,7 +14,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 
 # Publications
 
-1. Chengzhang Li, Zhenkang Peng, Ying Rong. "Mostly Beneficial Clustering: Aggregating Data for Operational Decision Making." **Management Science**. Accepted. 
+1. Chengzhang Li, Zhenkang Peng, Ying Rong. 2026. "Mostly Beneficial Clustering: Aggregating Data for Decision Making." **Management Science**. Accepted. 
    [[arXiv]](https://arxiv.org/abs/2311.17326)
 
 2. Zhenkang Peng, Chengzhang Li, Ying Rong, Zichao Luo, Guangrui Ma, Mingyong Zhao. 2026. "Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing." **Manufacturing & Service Operations Management**. Forthcoming. 
