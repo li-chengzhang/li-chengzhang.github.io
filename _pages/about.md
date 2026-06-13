@@ -17,7 +17,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 1. Chengzhang Li, Zhenkang Peng, Ying Rong. 2026. "Mostly Beneficial Clustering: Aggregating Data for Decision Making." **Management Science**. Accepted. 
    [[arXiv]](https://arxiv.org/abs/2311.17326)
 
-2. Chengzhang Li, Yuanchen Li. 2026. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits." **Production and Operations Management**. Conditionally accepted. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6821699)
+2. Chengzhang Li, Yuanchen Li. 2026. "Catch-All or No-False-Alarm? Managing Socially Responsible Supply Chains with Imperfect Audits." **Production and Operations Management**. Accepted. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6821699)
 
 3. Zhenkang Peng, Chengzhang Li, Ying Rong, Zichao Luo, Guangrui Ma, Mingyong Zhao. 2026. "Flexible Data Aggregation for Prediction and Decision Making: Applications in Retailing." **Manufacturing & Service Operations Management**. Forthcoming. 
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5693742)
