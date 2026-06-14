@@ -86,12 +86,12 @@ My research focuses on supply chain management. Using tools from optimization, s
 - East China University of Science and Technology, Dec. 2019 
 - Hong Kong University, Jan. 2019 
 - University of Colorado Boulder, Jan. 2019 
-- University of Texas, Dallas, Jan. 2019 
+- University of Texas at Dallas, Jan. 2019 
 - Chinese University of Hong Kong, Jan. 2019 
 - City University of Hong Kong, Jan. 2019 
 - Shanghai University of Finance and Economics, Dec. 2018
 - Shanghai Jiao Tong University, Dec. 2018 
-- University of Illinois, Urbana-Champaign, Dec. 2018
+- University of Illinois Urbana-Champaign, Dec. 2018
 
 
 # Honors
