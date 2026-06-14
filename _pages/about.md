@@ -74,6 +74,24 @@ My research focuses on supply chain management. Using tools from optimization, s
 - Session Chair, POMS Annual Meeting (2018, 2019, 2023, 2026)
 - Session Chair, INFORMS Annual Meeting (2018)
 
+# Invited Seminars/Workshops
+- New York University Shanghai, June 2026
+- University of Science and Technology of China, May 2026
+- Wuhan University, Dec. 2024 
+- Soochow University, July 2024 
+- Chinese University of Hong Kong, Shenzhen, Sep. 2023 
+- Shenyang Aerospace University, April 2023 
+- Zhengzhou University, Dec. 2020 
+- Hong Kong Polytechnic University, Nov. 2020 
+- East China University of Science and Technology, Dec. 2019 
+- Hong Kong University, Jan. 2019 
+- University of Colorado Boulder, Jan. 2019 
+- University of Texas, Dallas, Jan. 2019 
+- Chinese University of Hong Kong, Jan. 2019 
+- City University of Hong Kong, Jan. 2019 
+- Shanghai University of Finance and Economics, Dec. 2018
+- Shanghai Jiao Tong University, Dec. 2018 
+- University of Illinois, Urbana-Champaign, Dec. 2018
 
 
 # Honors
