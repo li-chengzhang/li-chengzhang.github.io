@@ -59,18 +59,21 @@ My research focuses on supply chain management. Using tools from optimization, s
 ## Editorial Services
 - Ad-hoc referee: Management Science, Operations Research, Manufacturing and Service Operations Management, Production and Operations Management, INFORMS Journal on Computing, Flexible Services and Manufacturing, Journal of the Operations Research Society of China, Journal of System & Management
 
-## Judge for Paper Competitions
+## Judge for Paper Competitions and Conferences
+- MSOM Supply Chain Management SIG Conference (2026)
+- MSOM Conference (2026)
+- INFORMS Service Science Best Cluster Paper Award Competition (2025)
 - Best Student Paper Competition, POMS China International Conference (2024, 2025) 
 - Best Student Paper Competition, POMS HK International Conference (2023, 2024, 2026) 
 - Best Student Paper Competition, ISCOM Annual Meeting (2022)
-
+  
 ## Conference Organization  
 - Organizing Committee, POMS-China Annual Meeting (2023) 
 - Organizing Committee, The 13th CSAMSE Annual Conference (2021)
 - Session Chair, The 18th CSAMSE Annual Conference (2026)
 - Session Chair, INFORMS International Annual Meeting (2025)
-- Session Chair, POMS HK International Conference (2024-2026)
-- Session Chair, POMS-China Annual Meeting (2023 - 2024)
+- Session Chair, POMS HK International Conference (2024, 2025, 2026)
+- Session Chair, POMS-China Annual Meeting (2023, 2024)
 - Session Chair, POMS Annual Meeting (2018, 2019, 2023, 2026)
 - Session Chair, INFORMS Annual Meeting (2018)
 
