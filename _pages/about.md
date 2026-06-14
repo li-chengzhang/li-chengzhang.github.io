@@ -74,7 +74,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 - Session Chair, POMS Annual Meeting (2018, 2019, 2023, 2026)
 - Session Chair, INFORMS Annual Meeting (2018)
 
-# Invited Seminars/Workshops
+# Invited Seminars and Talks
 - New York University Shanghai, June 2026
 - University of Science and Technology of China, May 2026
 - Wuhan University, Dec. 2024 
