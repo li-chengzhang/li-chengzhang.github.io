@@ -66,11 +66,12 @@ My research focuses on supply chain management. Using tools from optimization, s
 
 ## Conference Organization  
 - Organizing Committee, POMS-China Annual Meeting (2023) 
-- Organizing Committee, The 13th CSAMSE Conference (2021) 
+- Organizing Committee, The 13th CSAMSE Annual Conference (2021)
+- Session Chair, The 18th CSAMSE Annual Conference (2026)
 - Session Chair, INFORMS International Annual Meeting (2025)
 - Session Chair, POMS HK International Conference (2024-2026)
 - Session Chair, POMS-China Annual Meeting (2023 - 2024)
-- Session Chair, POMS Annual Meeting (2018, 2019, 2023)
+- Session Chair, POMS Annual Meeting (2018, 2019, 2023, 2026)
 - Session Chair, INFORMS Annual Meeting (2018)
 
 
