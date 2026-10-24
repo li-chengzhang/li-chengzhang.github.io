@@ -62,7 +62,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 ## Judge for Paper Competitions and Conferences
 - MSOM Supply Chain Management SIG Conference (2026)
 - MSOM Conference (2026)
-- INFORMS Service Science Best Cluster Paper Award Competition (2025)
+- INFORMS Service Science Best Cluster Paper Award Competition (2025, 2026)
 - Best Student Paper Competition, POMS China International Conference (2024, 2025) 
 - Best Student Paper Competition, POMS HK International Conference (2023, 2024, 2026) 
 - Best Student Paper Competition, ISCOM Annual Meeting (2022)
@@ -78,6 +78,7 @@ My research focuses on supply chain management. Using tools from optimization, s
 - Session Chair, INFORMS Annual Meeting (2018)
 
 # Invited Seminars and Talks
+- Zhejiang University, October 2026
 - New York University Shanghai, June 2026
 - University of Science and Technology of China, May 2026
 - Wuhan University, Dec. 2024 
